@@ -4,6 +4,7 @@ version = "0.1.0"
 edition = "2021"
 description = "Gossip-based information spreading with epidemic models"
 license = "MIT"
+repository = "https://github.com/SuperInstance/lau-murmur-protocol-v2"
 
 [dependencies]
 serde = { version = "1", features = ["derive"] }
